@@ -1,4 +1,3 @@
- CatsShopDB/pgdata
-*.stat
+ *.stat
 *.db
 *.init
