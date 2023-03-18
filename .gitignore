@@ -1,5 +1,2 @@
  CatsShopDB/pgdata
-
- *.stat
-*.db
-*.init
+ CatsShopDB/pgadmin
